@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LayoutConstraint</string>
+    <string name="buEinsName">1</string>
+    <string name="buZweiName">2</string>
+    <string name="buDreiName">3</string>
+    <string name="buVierName">4</string>
+    <string name="buFuenfName">5</string>
+    <string name="buSechsName">6</string>
+    <string name="buSiebenName">7</string>
+    <string name="buAchtName">8</string>
+    <string name="buNeunName">9</string>
+    <string name="buZehnName">10</string>
+</resources>
